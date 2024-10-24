@@ -15,3 +15,7 @@
 ## Scss 코드 취합
 
 -> [Sass 취합내용 바로가기](./Sass.md) <br>
+
+## Tailwind 코드 취합
+
+-> [Tailwind 취합내용 바로가기](./tailwind.md) <br>
