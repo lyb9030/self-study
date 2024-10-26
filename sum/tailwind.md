@@ -13,7 +13,9 @@
 
 ## B
 
-1. bg-색상-넘버 -> background-color 를 원하는 색상과 채도를 넣어서 사용<br>
+1. bg-white -> 배경 색(background-color) 를 하얀색으로 변경<br>
+
+2. bg-색상-넘버 -> background-color 를 원하는 색상과 채도를 넣어서 사용<br>
    넘버는 100번 단위의 숫자로 작성을 해야함 <br>
    EX) bg-cyan-200 : 배경을 Cyan 색상의 200 채도로 적용 <br>
 
@@ -27,11 +29,27 @@
 
 1. flex -> display의 값을 flex로 설정 함<br>
 
+2. flex-col -> display의 값을 flex로 설정된 것에서 방향 (direction)의 값을 열 (column)로 정렬함<br>
+
+3. flex-row-reverse -> flex로 설정된 display의 값을 열 (row) 방향 (direction) 으로 지정하는데 역 (reverse) 으로 뒤집어서 정렬함<br>
+
 ## G
+
+1. gap-넘버 -> 요소와 요소사이의 공간을 설정함<br>
+   EX) gap-5 : 갭을 5 (20px, 1.25rem)으로 설정함<br>
+
+2. group -> 부모 요소의 스타일을 자식 요소에 지정해야 하는 경우 부모에 먼저 그룹을 설정하여, 자식에게 상속 시킴<br>
+   주로 hover: 와 같이 사용을 함<br>
 
 ## H
 
-1. h-screen -> 높이 (height) 의 값을 100vh 로 설정함<br>
+1. hover: -> hover 상태 (마우스를 해당 위치에 올린 상태) 가 되면 : 이후의 내용으로 변경을 하게 함<br>
+   hover는 주로 group의 하위 요소로 사용 되곤 함<br>
+
+2. hover:bg=색상-넘버 -> hover (마우스를 올릴 경우) 배경 색(background-color)를 지정한 색상의 넘버로 변경<br>
+   EX) hover:bg-prmary-300 : 마우스가 해당 이미지로 올라갈 경우 배경색을 prmary 색의 300 채도로 적용<br>
+
+3. h-screen -> 높이 (height) 의 값을 100vh 로 설정함<br>
 
 ## I
 
@@ -47,10 +65,11 @@
 
 ## M
 
-1. my-넘버 -> margin top 과 margin bottom을 각각 주는 언어 <br>
-   EX) my-10 : margin top 과 margin bottom을 각각 10번째(40px, 2.5rem) 으로 줌<br>
+1. m-넘버 -> margin의 값을 주는 언어<br>
+   EX) m-10 : margin의 값을 10 번째 값 (40px, 2rem)으로 줌
 
-2. flex-col -> display의 값을 flex로 설정된 것에서 방향 (direction)의 값을 열 (column)로 정렬함<br>
+2. my-넘버 -> margin top 과 margin bottom을 각각 주는 언어 <br>
+   EX) my-10 : margin top 과 margin bottom을 각각 10번째(40px, 2.5rem) 으로 줌<br>
 
 ## N
 
@@ -61,9 +80,15 @@
 
 ## P
 
+1. p-넘버 -> 패딩 (padding) 값을 원하는 넘버로 지정<br>
+   EX) p-5 : 패딩 (padding) 값을 5 (20px, 1.25rem) 으로 지정<br>
+
 ## Q
 
 ## R
+
+1. rounded- -> 해당 박스 (box) 의 모서리를 해당 사이즈 만큼 둥글게 함<br>
+   EX) rounded-xl : 해당 박스의 모서리를 xl 사이즈 (7px)만큼 둥글게 만듬<br>
 
 ## S
 
