@@ -12,6 +12,10 @@
 
 -> [취합내용 바로가기](./md/apple.md) <br>
 
+## Java Script 코드 취합
+
+-> [Java Script 취합내용 바로가기](./md/javascript.md) <br>
+
 ## Scss 코드 취합
 
 -> [Sass 취합내용 바로가기](./Sass.md) <br>
@@ -19,3 +23,7 @@
 ## Tailwind 코드 취합
 
 -> [Tailwind 취합내용 바로가기](./tailwind.md) <br>
+
+## 취합 URL
+
+-> [URL 모음 바로가기](./url.md) <br>

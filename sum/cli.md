@@ -53,20 +53,33 @@
 1. node --version : node 버전을 확인하는 언어<br>
    EX) node --version : 현재 사용중인 node 버전을 볼 수 있음<br>
    <br>
-2. npm i(install) ~ : npm을 사용하여 프로그램을 설치할때 사용하는 언어 <br>
+
+2. node 폴더/파일명.확장자 : node를 통하여 해당 파일을 실행 <br>
+   주로 자바 스크립트 환경에서 사용을 함<br>
+
+3. npm i(install) ~ : npm을 사용하여 프로그램을 설치할때 사용하는 언어 <br>
    EX) npm i sass : npm을 통하여 sass를 설치 <br>
    <br>
-3. npm un(uninstall) ~ : npm을 사용하여 프로그램을 삭제할때 사용하는 언어 <br>
+
+4. npm i live-server -D : npm을 사용하여 live-server를 devDependencies 사용하여 설치<br>
+   Dependencies : 보여지는 코드에 관련된 내용을 정리, 클라이언트에게 전달시 모든 코드를 전달 함<br>
+   devDependencies : 개발에 필요한 코드에 관련된 내용을 정리, 클라이언트에게 전달시 이 부분은 삭제하여 전달 함<br>
+   devDependencies 와 Dependencies 를 나눠쓰는 이유는, 코드가 많이 입력 될 수록 홈페이지는 느려지기에 해당 부분은 삭제를 하여 최적화 하기 위함<br>
+
+5. npm un(uninstall) ~ : npm을 사용하여 프로그램을 삭제할때 사용하는 언어 <br>
    EX) npm un sass : npm을 통하여 sass를 삭제 <br>
    <br>
-4. npx -> 강제 실행을 위한 언어 (주로 권한 부여등 이슈가 발생할 때 사용 )<br>
+6. npx -> 강제 실행을 위한 언어 (주로 권한 부여등 이슈가 발생할 때 사용 )<br>
    EX) npx npm i sass : npm을 통하여 sass를 강제로 설치 (이슈 발생은 무시)<br>
    <br>
-5. npm run ~ : npm을 사용하여 무엇인가를 실행할때 사용하는 언어 <br>
+
+7. npx add-gitignore node windows macos visualstudiocode : git ignore을 node, windows, macos, visualstudiocode 환경에 맞게 강제로 진행함<br>
+
+8. npm run ~ : npm을 사용하여 무엇인가를 실행할때 사용하는 언어 <br>
    EX) npm run sass : npm을 통하여 sass를 실행<br>
    <br>
 
-6. nvm --version -> nvm 버전을 확인하는 언어<br>
+9. nvm --version -> nvm 버전을 확인하는 언어<br>
    EX) nvm --version : 현재 사용중인 nvm 버전을 볼 수 있음 <br>
    <br>
 
