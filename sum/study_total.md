@@ -14,7 +14,7 @@
 
 ## Java Script 코드 취합
 
--> [Java Script 취합내용 바로가기](./md/javascript.md) <br>
+-> [Java Script 취합내용 바로가기](./javascript.md) <br>
 
 ## Scss 코드 취합
 

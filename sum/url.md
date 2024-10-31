@@ -3,7 +3,8 @@
 ## Java Script 관련 URL
 
 - -> [범쌤의 깃허브](https://github.com/simseonbeom?tab=repositories) <br>
-- -> [코드 내 버그를 잡아주는 기능](https://eslint.org/) <br>
+- -> [eslint -> 코드 내 버그를 잡아주는 기능](https://eslint.org/) <br>
+- -> [pigma -> JS 코드에 대한 그림 설명](https://www.figma.com/board/ZR3npoO6yjMyVURpHvS4xk/JS-Tree-Structure?node-id=0-1)<br>
 
 ### 기타 정리 필요
 
